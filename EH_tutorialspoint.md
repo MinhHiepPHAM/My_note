@@ -4,11 +4,7 @@
  - fping, iptables
  - DNS Emuneration: nslookup, DNSenum
 
-<<<<<<< HEAD
-2. Sniffing: [sniffing tools](https://www.tutorialspoint.com/ethical_hacking/ethical_hacking_sniffing_tools.htm)
-=======
 2. Sniffing: [list of tool](https://www.tutorialspoint.com/ethical_hacking/ethical_hacking_sniffing_tools.htm)
->>>>>>> eff483f30978b0e86716096690d3ef2d56c8a19f
 3. ARP (Address Resolution Protocol) Poisoning (or ARP Spoofing) that uses Man-in-the-Middle access to poison the network: Ettercap tool (waiting)
 4. DNS poisoning is used to redirect the users to fake pages which are managed by the attackers: Ettercap tool (waiting)
 5. Exploitation: Metasploit [Quick start guide](https://docs.rapid7.com/metasploit/)
